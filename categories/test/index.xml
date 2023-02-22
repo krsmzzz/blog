@@ -2,9 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Example Site</title>
-    <link>https://example.com/categories/test/</link>
+    <link>https://krsmzzz.github.io/blog/categories/test/</link>
     <description>Recent content in Test on Example Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.com/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    
+	<atom:link href="https://krsmzzz.github.io/blog/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
   </channel>
 </rss>
