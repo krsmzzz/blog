@@ -6,7 +6,16 @@
         <description>Recent content in Posts on Arrayco‘ Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://krsmzzz.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Feb 2023 13:55:34 +0800</lastBuildDate><atom:link href="https://krsmzzz.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>2023_2_22</title>
+        <link>https://krsmzzz.github.io/blog/p/2023_2_22/</link>
+        <pubDate>Wed, 22 Feb 2023 13:55:34 +0800</pubDate>
+        
+        <guid>https://krsmzzz.github.io/blog/p/2023_2_22/</guid>
+        <description>&lt;p&gt;hello hugo&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Markdown Syntax Guide</title>
         <link>https://krsmzzz.github.io/blog/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
