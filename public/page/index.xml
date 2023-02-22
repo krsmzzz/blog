@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on Example Site</title>
+        <title>Pages on Arrayco‘ Blog</title>
         <link>https://krsmzzz.github.io/blog/page/</link>
-        <description>Recent content in Pages on Example Site</description>
+        <description>Recent content in Pages on Arrayco‘ Blog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 02 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://krsmzzz.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>关于</title>
-        <link>https://krsmzzz.github.io/blog/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://krsmzzz.github.io/blog/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;😊我：&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <language>zh-cn</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://krsmzzz.github.io/blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
         <link>https://krsmzzz.github.io/blog/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
@@ -24,12 +15,13 @@
         <description></description>
         </item>
         <item>
-        <title>搜索</title>
-        <link>https://krsmzzz.github.io/blog/search/</link>
+        <title>关于</title>
+        <link>https://krsmzzz.github.io/blog/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://krsmzzz.github.io/blog/search/</guid>
-        <description></description>
+        <guid>https://krsmzzz.github.io/blog/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>链接</title>
@@ -65,6 +57,14 @@
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://krsmzzz.github.io/blog/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://krsmzzz.github.io/blog/search/</guid>
+        <description></description>
         </item>
         
     </channel>
