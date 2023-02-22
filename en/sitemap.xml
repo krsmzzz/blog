@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://krsmzzz.github.io/blog/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
@@ -20,9 +19,7 @@
                 hreflang="en"
                 href="https://krsmzzz.github.io/blog/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -35,9 +32,7 @@
                 hreflang="en"
                 href="https://krsmzzz.github.io/blog/page/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,14 +45,10 @@
                 hreflang="en"
                 href="https://krsmzzz.github.io/blog/%E5%85%B3%E4%BA%8E/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,39 +66,25 @@
                 hreflang="en"
                 href="https://krsmzzz.github.io/blog/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -125,28 +102,17 @@
                 hreflang="en"
                 href="https://krsmzzz.github.io/blog/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/categories/test/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/search/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/%E9%93%BE%E6%8E%A5/</loc>
   </url>
-  
 </urlset>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://krsmzzz.github.io/blog/zh-cn/categories/</loc>
     <xhtml:link
@@ -19,9 +18,7 @@
                 hreflang="zh-cn"
                 href="https://krsmzzz.github.io/blog/zh-cn/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
@@ -33,9 +30,7 @@
                 hreflang="zh-cn"
                 href="https://krsmzzz.github.io/blog/zh-cn/page/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -52,9 +47,7 @@
                 hreflang="zh-cn"
                 href="https://krsmzzz.github.io/blog/zh-cn/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
@@ -66,9 +59,7 @@
                 hreflang="zh-cn"
                 href="https://krsmzzz.github.io/blog/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,5 +77,4 @@
                 href="https://krsmzzz.github.io/blog/zh-cn/"
                 />
   </url>
-  
 </urlset>
