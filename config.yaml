@@ -199,15 +199,27 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/krsmzzz
           params:
               icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: bilibili
+          name: Bilibili
+          url: https://space.bilibili.com/321546842?spm_id_from=333.1007.0.0
           params:
-              icon: brand-twitter
+              icon: brand-bilibili
+
+        - identifier: instragam
+          name: Instragam
+          url: https://www.instagram.com/krsmzz2/
+          params:
+              icon: brand-instagram
+
+        - identifier: dribbble
+          name: Dribbble
+          url: https://dribbble.com/krsmzzz
+          params:
+              icon: brand-dribbble
 
 related:
     includeNewer: true
@@ -224,7 +236,7 @@ markup:
     goldmark:
         renderer:
             ## Set to true if you have HTML content inside Markdown
-            unsafe: false
+            unsafe: true
     tableOfContents:
         endLevel: 4
         ordered: true
