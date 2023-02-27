@@ -57,7 +57,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: 聚若浮萍散若云，穷通寿夭俱莫问，绮梦红楼应笑我，素华流年不待君
+        subtitle: 康者，乐也
         avatar:
             enabled: true
             local: true
@@ -73,7 +73,7 @@ params:
 
     comments:
         enabled: true
-        provider: disqus
+        provider: waline
 
         disqusjs:
             shortname:
@@ -102,18 +102,18 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/component.html
         waline:
-            serverURL:
+            serverURL: https://waline-blog-iota.vercel.app/
             lang:
-            pageview:
+            pageview: true
             emoji:
-                - https://unpkg.com/@waline/emojis@1.0.1/weibo
+                - https://cdn.jsdelivr.net/npm/sticker-heo@2022.7.5/Sticker-100/
             requiredMeta:
                 - name
                 - email
                 - url
             locale:
-                admin: Admin
-                placeholder:
+                admin: 既乐
+                placeholder: 🎉留下你的脚印.
 
         twikoo:
             envId:
