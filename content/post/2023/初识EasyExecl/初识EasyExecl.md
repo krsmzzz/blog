@@ -18,7 +18,7 @@ categories: [
 ## 介绍
 
 ~~~markdown
-* EasyExcel是一个基于Java的简单、省内存的读写Excel的开源项目。在尽可能节约内存的情况下支持读写百M的Excel。
+* EasyExcel是一个基于Java的简单、省内存的读写Excel的开源项目。在尽可能节约内存的情况下支持读写百兆的Excel。
 
 * github地址: https://github.com/alibaba/easyexcel
 ~~~
@@ -28,7 +28,7 @@ categories: [
 >https://easyexcel.opensource.alibaba.com/
 
 ### 提供excel
-![](image1.png)
+![Image 1](image1.png)
 
 
 ### 创建并导入坐标
