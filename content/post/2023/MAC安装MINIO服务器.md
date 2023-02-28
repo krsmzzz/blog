@@ -6,26 +6,23 @@ draft: true
 
 官网：[MINIO官网链接](https://www.minio.org.cn/download.shtml#/macos)
 
-## 1.[homebrew](https://so.csdn.net/so/search?q=brew&spm=1001.2101.3001.7020)安装
+## homebrew安装
 
 ```java
 brew install minio/stable/minio
 ```
 
-
-## 2.安装完成后
+## 安装完成后
 
 ```java
 brew info minio
 ```
 
-
-## 3.启动
+## 启动
 
 ```java
 /usr/local/opt/minio/bin/minio server --config-dir=/usr/local/etc/minio --address=:9000 /usr/local/var/minio
 ```
-
 
 config-dir=/usr/local/etc/minio     	配置文件目录
 address=:9000   				使用的端口
@@ -33,7 +30,7 @@ address=:9000   				使用的端口
 
 cmd+c关闭服务器。
 
-## 4.访问
+## 访问
 
 API: http://192.168.31.230:9000 		 http://127.0.0.1:9000
 
