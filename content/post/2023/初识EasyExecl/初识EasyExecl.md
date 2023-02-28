@@ -7,12 +7,12 @@ tags: [
     "编程",
     "java",
 ]
-tags: [
+categories: [
     "编程",
     "java",
 ]
 
-image: "easyExcel.png"
+image = "easyExcel.png"
 ---
 
 ## 介绍
@@ -28,9 +28,7 @@ image: "easyExcel.png"
 >https://easyexcel.opensource.alibaba.com/
 
 ### 提供excel
-<div align="center">
-<img src=assets/image1.png width=60%/>
-</div>
+![](image1.png)
 
 
 ### 创建并导入坐标
