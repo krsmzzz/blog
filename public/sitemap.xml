@@ -5,7 +5,13 @@
     <loc>https://krsmzzz.github.io/blog/</loc>
     <lastmod>2023-02-28T17:30:16+08:00</lastmod>
   </url><url>
+    <loc>https://krsmzzz.github.io/blog/categories/</loc>
+    <lastmod>2023-02-28T17:30:16+08:00</lastmod>
+  </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/java/</loc>
+    <lastmod>2023-02-28T17:30:16+08:00</lastmod>
+  </url><url>
+    <loc>https://krsmzzz.github.io/blog/categories/java/</loc>
     <lastmod>2023-02-28T17:30:16+08:00</lastmod>
   </url><url>
     <loc>https://krsmzzz.github.io/blog/post/</loc>
@@ -15,6 +21,9 @@
     <lastmod>2023-02-28T17:30:16+08:00</lastmod>
   </url><url>
     <loc>https://krsmzzz.github.io/blog/tags/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2023-02-28T17:30:16+08:00</lastmod>
+  </url><url>
+    <loc>https://krsmzzz.github.io/blog/categories/%E7%BC%96%E7%A8%8B/</loc>
     <lastmod>2023-02-28T17:30:16+08:00</lastmod>
   </url><url>
     <loc>https://krsmzzz.github.io/blog/p/%E5%88%9D%E8%AF%86easyexecl/</loc>
@@ -31,8 +40,6 @@
   </url><url>
     <loc>https://krsmzzz.github.io/blog/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://krsmzzz.github.io/blog/categories/</loc>
   </url><url>
     <loc>https://krsmzzz.github.io/blog/categories/test/</loc>
   </url><url>

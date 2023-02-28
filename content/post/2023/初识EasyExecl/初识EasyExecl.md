@@ -12,7 +12,7 @@ categories: [
     "java",
 ]
 
-image = "easyExcel.png"
+
 ---
 
 ## 介绍

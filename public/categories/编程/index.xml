@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>编程 on Arrayco‘ Blog</title>
-        <link>https://krsmzzz.github.io/blog/tags/%E7%BC%96%E7%A8%8B/</link>
+        <link>https://krsmzzz.github.io/blog/categories/%E7%BC%96%E7%A8%8B/</link>
         <description>Recent content in 编程 on Arrayco‘ Blog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Tue, 28 Feb 2023 17:30:16 +0800</lastBuildDate><atom:link href="https://krsmzzz.github.io/blog/tags/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Feb 2023 17:30:16 +0800</lastBuildDate><atom:link href="https://krsmzzz.github.io/blog/categories/%E7%BC%96%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>初识EasyExecl</title>
         <link>https://krsmzzz.github.io/blog/p/%E5%88%9D%E8%AF%86easyexecl/</link>
         <pubDate>Tue, 28 Feb 2023 17:30:16 +0800</pubDate>
